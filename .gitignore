@@ -1,0 +1,9 @@
+obj
+bin
+appsettings.json
+*.db
+Infrastructure/Identity/AppIdentityDbContextSeed.cs
+Infrastructure/Data/StoreContextSeed.cs
+API/Properties
+.vs
+.vscode
